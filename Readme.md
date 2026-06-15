@@ -171,7 +171,7 @@ Algerian_forest_fire_Prediction/
 Clone the repository:
 
 bash
-git clone https://github.com/Rithi123456/Algerian_forest_fire_Prediction.git
+git clone https://github.com/Rayhaan-Akhtar-Khan/Algerian_forest_fire_Prediction.git
 
 
 Move into project directory:
